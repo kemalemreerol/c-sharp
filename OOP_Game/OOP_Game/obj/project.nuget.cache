@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "g7W9Eo+15wC8PbdRV+E+OkjI62TMKkK3h+LcoU4taZK8QE59h9fueB/Fzoc3bVALEse1AFvpyK4x7VSkipuvHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\c-sharp-examples-main\\OOP_Game\\OOP_Game\\OOP_Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
