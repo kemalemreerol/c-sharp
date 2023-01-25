@@ -1,0 +1,51 @@
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.exe
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.deps.json
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.runtimeconfig.json
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.dll
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.pdb
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\_05_10_Emlak_Örneği_Deneme.Form1.resources
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.csproj.GenerateResource.cache
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.dll
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\refint\05_10_Emlak_Örneği_Deneme.dll
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.pdb
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.genruntimeconfig.cache
+C:\Users\Wissen\Desktop\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\ref\05_10_Emlak_Örneği_Deneme.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.exe
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.deps.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.runtimeconfig.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.csproj.AssemblyReference.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\_05_10_Emlak_Örneği_Deneme.Form1.resources
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.csproj.GenerateResource.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.AssemblyInfoInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.AssemblyInfo.cs
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.csproj.CoreCompileInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\refint\05_10_Emlak_Örneği_Deneme.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.genruntimeconfig.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\05_10_Emlak_Örneği_Deneme\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\ref\05_10_Emlak_Örneği_Deneme.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.exe
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.deps.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.runtimeconfig.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\bin\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.csproj.AssemblyReference.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\_05_10_Emlak_Örneği_Deneme.Form1.resources
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.csproj.GenerateResource.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.AssemblyInfoInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.AssemblyInfo.cs
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.csproj.CoreCompileInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\refint\05_10_Emlak_Örneği_Deneme.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\05_10_Emlak_Örneği_Deneme.genruntimeconfig.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form - Emlak Uygulaması\05_10_Emlak_Örneği_Deneme\obj\Debug\net6.0-windows\ref\05_10_Emlak_Örneği_Deneme.dll

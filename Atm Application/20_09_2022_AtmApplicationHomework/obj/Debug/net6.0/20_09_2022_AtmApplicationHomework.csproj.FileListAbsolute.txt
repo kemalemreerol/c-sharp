@@ -1,0 +1,45 @@
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.AssemblyInfo.cs
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.exe
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.deps.json
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.runtimeconfig.json
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\refint\20_09_2022_AtmApplicationHomework.dll
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.pdb
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.genruntimeconfig.cache
+C:\Users\aydin\Desktop\dotNetProjects\Week2_AY\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\ref\20_09_2022_AtmApplicationHomework.dll
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.exe
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.deps.json
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.runtimeconfig.json
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.dll
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.pdb
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.AssemblyInfo.cs
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.dll
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\refint\20_09_2022_AtmApplicationHomework.dll
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.pdb
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.genruntimeconfig.cache
+C:\Users\aydin\Desktop\20_09_2022_AtmApplicationHomework\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\ref\20_09_2022_AtmApplicationHomework.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.exe
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.deps.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.runtimeconfig.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\bin\Debug\net6.0\20_09_2022_AtmApplicationHomework.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.csproj.AssemblyReference.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.AssemblyInfoInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.AssemblyInfo.cs
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.csproj.CoreCompileInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\refint\20_09_2022_AtmApplicationHomework.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\20_09_2022_AtmApplicationHomework.genruntimeconfig.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Atm Application\20_09_2022_AtmApplicationHomework\obj\Debug\net6.0\ref\20_09_2022_AtmApplicationHomework.dll

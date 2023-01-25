@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DQKCUyzBn8pvs+uucNLWCFNkNWXNtanmd51fThsNgwCuzj1iIaSpqu3gnHaLpJ466UAlZ5eS2/2ATMURgdNv1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\c-sharp\\Champions_League\\Champions_League\\Champions_League.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xdPsCImJU7Gsgv2Bat7Qmti13TIEzYmvvQqgg20Nc4NsIM2pdrKjTuwBvXv/mHInqB/1Of9w7eZJa0ns0d0tGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\c-sharp\\Form Savaş Oyunu\\savasoyunudeneme1\\savasoyunudeneme1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

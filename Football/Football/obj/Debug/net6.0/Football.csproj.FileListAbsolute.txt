@@ -1,0 +1,45 @@
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\bin\Debug\net6.0\Football.exe
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\bin\Debug\net6.0\Football.deps.json
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\bin\Debug\net6.0\Football.runtimeconfig.json
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\bin\Debug\net6.0\Football.dll
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\bin\Debug\net6.0\Football.pdb
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\obj\Debug\net6.0\Football.csproj.AssemblyReference.cache
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\obj\Debug\net6.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\obj\Debug\net6.0\Football.AssemblyInfoInputs.cache
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\obj\Debug\net6.0\Football.AssemblyInfo.cs
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\obj\Debug\net6.0\Football.csproj.CoreCompileInputs.cache
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\obj\Debug\net6.0\Football.dll
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\obj\Debug\net6.0\refint\Football.dll
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\obj\Debug\net6.0\Football.pdb
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\obj\Debug\net6.0\Football.genruntimeconfig.cache
+C:\Users\Bilim\Desktop\MyProjects\Football\Football\obj\Debug\net6.0\ref\Football.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\bin\Debug\net6.0\Football.exe
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\bin\Debug\net6.0\Football.deps.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\bin\Debug\net6.0\Football.runtimeconfig.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\bin\Debug\net6.0\Football.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\bin\Debug\net6.0\Football.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\obj\Debug\net6.0\Football.csproj.AssemblyReference.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\obj\Debug\net6.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\obj\Debug\net6.0\Football.AssemblyInfoInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\obj\Debug\net6.0\Football.AssemblyInfo.cs
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\obj\Debug\net6.0\Football.csproj.CoreCompileInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\obj\Debug\net6.0\Football.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\obj\Debug\net6.0\refint\Football.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\obj\Debug\net6.0\Football.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\obj\Debug\net6.0\Football.genruntimeconfig.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\HomeWork\14.10.2022 HomeWork\Football\Football\obj\Debug\net6.0\ref\Football.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\bin\Debug\net6.0\Football.exe
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\bin\Debug\net6.0\Football.deps.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\bin\Debug\net6.0\Football.runtimeconfig.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\bin\Debug\net6.0\Football.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\bin\Debug\net6.0\Football.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\obj\Debug\net6.0\Football.csproj.AssemblyReference.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\obj\Debug\net6.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\obj\Debug\net6.0\Football.AssemblyInfoInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\obj\Debug\net6.0\Football.AssemblyInfo.cs
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\obj\Debug\net6.0\Football.csproj.CoreCompileInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\obj\Debug\net6.0\Football.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\obj\Debug\net6.0\refint\Football.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\obj\Debug\net6.0\Football.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\obj\Debug\net6.0\Football.genruntimeconfig.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Football\Football\obj\Debug\net6.0\ref\Football.dll

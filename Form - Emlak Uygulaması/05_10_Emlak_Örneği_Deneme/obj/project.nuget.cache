@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3VrwiyeFdwLqwvTR9oXYGHSkrcKDHBWbMs/1BjLuVLBCfejhqmjN7Es2ejDSvkmapCBJcwaPDZQc6G8ppTA1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\c-sharp\\Form - Emlak Uygulaması\\05_10_Emlak_Örneği_Deneme\\05_10_Emlak_Örneği_Deneme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

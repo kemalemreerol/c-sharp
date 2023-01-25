@@ -1,0 +1,72 @@
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.exe
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.deps.json
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.runtimeconfig.json
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.dll
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.pdb
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.Form1.resources
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.csproj.GenerateResource.cache
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.dll
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\obj\Debug\net6.0-windows\refint\savasoyunudeneme1.dll
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.pdb
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.genruntimeconfig.cache
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\obj\Debug\net6.0-windows\ref\savasoyunudeneme1.dll
+C:\Users\Wissen\Desktop\Denemeler\savasoyunudeneme1\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.Properties.Resources.resources
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.exe
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.deps.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.runtimeconfig.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.csproj.AssemblyReference.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.Form1.resources
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.Properties.Resources.resources
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.csproj.GenerateResource.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.AssemblyInfoInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.AssemblyInfo.cs
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.csproj.CoreCompileInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\refint\savasoyunudeneme1.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.genruntimeconfig.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\Week1\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\ref\savasoyunudeneme1.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.exe
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.deps.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.runtimeconfig.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.csproj.AssemblyReference.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.Form1.resources
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.Properties.Resources.resources
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.csproj.GenerateResource.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.AssemblyInfoInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.AssemblyInfo.cs
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.csproj.CoreCompileInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\refint\savasoyunudeneme1.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.genruntimeconfig.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\YENİ REPO\myWork\C#\Yeni klasör\_savasoyunudeneme_form\savasoyunudeneme1\obj\Debug\net6.0-windows\ref\savasoyunudeneme1.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.exe
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.deps.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.runtimeconfig.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\bin\Debug\net6.0-windows\savasoyunudeneme1.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.csproj.AssemblyReference.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.Form1.resources
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.Properties.Resources.resources
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.csproj.GenerateResource.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.AssemblyInfoInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.AssemblyInfo.cs
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.csproj.CoreCompileInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\obj\Debug\net6.0-windows\refint\savasoyunudeneme1.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\obj\Debug\net6.0-windows\savasoyunudeneme1.genruntimeconfig.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\kemalemreerol\c-sharp\Form Savaş Oyunu\savasoyunudeneme1\obj\Debug\net6.0-windows\ref\savasoyunudeneme1.dll
